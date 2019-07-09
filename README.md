@@ -1,1 +1,1 @@
-# go-testing
+# Testing practices in Go
